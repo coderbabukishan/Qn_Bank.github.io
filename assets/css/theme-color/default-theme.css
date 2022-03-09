@@ -1,9 +1,7 @@
-
 /*=======================================
 Template Design By MarkUps	
 Author URI : http://www.markups.io/
 ========================================*/
-
 
 .mu-service-icon-box,
 .mu-team-social-info a:hover,
@@ -17,27 +15,28 @@ Author URI : http://www.markups.io/
 .mu-hero-left .mu-primary-btn:focus,
 .mu-single-counter i,
 .counter-value {
-	color: #1cffbb;
+    color: #1cffbb;
 }
 
 .mu-send-msg-btn:hover,
 .mu-send-msg-btn:focus,
 .mu-book-overview-icon-box,
-.mu-social-media a, 
+.mu-social-media a,
 .mu-social-media a:hover,
 .mu-social-media a:focus,
 .mu-order-btn:hover,
 .mu-order-btn:focus {
-	border: 1px solid #ff871c;
-	color: #ff871c;
+    border: 1px solid #ff871c;
+    color: #ff871c;
 }
 
 .mu-send-msg-btn {
-	border: 1px solid #ff871c;
-	background-color: #ff871c;
+    border: 1px solid #ff871c;
+    background-color: #ff871c;
 }
 
 
+/* 
 #mu-hero,
 .mu-testimonial-slide .slick-dots li button:hover,
 .mu-testimonial-slide .slick-dots li button:focus,
@@ -47,12 +46,11 @@ Author URI : http://www.markups.io/
 .mu-pricing-content .mu-popular-price-tag,
 #mu-video-review:before  {
 	background-color: #9fdb2f;
-}
+} */
 
 .mu-contact-form .form-control:focus,
 .mu-testimonial-slide .slick-dots li button:hover,
 .mu-testimonial-slide .slick-dots li button:focus,
-.mu-testimonial-slide .slick-dots li.slick-active button{
-	border: 1px solid #ff871c;    
-} 
-
+.mu-testimonial-slide .slick-dots li.slick-active button {
+    border: 1px solid #ff871c;
+}
